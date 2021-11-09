@@ -3,12 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/user/AndroidStudioProjects/Everyones_Sponsorship/app/src/main/res/layout/activity_join_advertiser.xml" value="0.2957427536231884" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/Everyones_Sponsorship/app/src/main/res/layout/activity_join_influencer.xml" value="0.2046875" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/Everyones_Sponsorship/app/src/main/res/layout/activity_login.xml" value="0.25" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/Everyones_Sponsorship/app/src/main/res/layout/activity_main.xml" value="0.2046875" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/Everyones_Sponsorship/app/src/main/res/layout/activity_sign_advertiser.xml" value="0.2957427536231884" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/Everyones_Sponsorship/app/src/main/res/layout/activity_sign_influencer.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Everyones_Sponsorship/app/src/main/res/layout/activity_login.xml" value="0.2015625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Everyones_Sponsorship/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Everyones_Sponsorship/app/src/main/res/layout/activity_sign_advertiser.xml" value="0.2015625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Everyones_Sponsorship/app/src/main/res/layout/activity_sign_influencer.xml" value="0.2015625" />
       </map>
     </option>
   </component>
