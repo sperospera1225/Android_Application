@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/admin/AndroidStudioProjects/Everyones_Sponsorship/app/src/main/res/layout/activity_login.xml" value="0.2015625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Everyones_Sponsorship/app/src/main/res/drawable/rectangle_2.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Everyones_Sponsorship/app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/Everyones_Sponsorship/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/Everyones_Sponsorship/app/src/main/res/layout/activity_sign_advertiser.xml" value="0.2015625" />
         <entry key="..\:/Users/admin/AndroidStudioProjects/Everyones_Sponsorship/app/src/main/res/layout/activity_sign_influencer.xml" value="0.2015625" />
@@ -15,5 +16,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
   </component>
 </project>

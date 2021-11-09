@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Everyone\'s_Sponsorship</string>
+    <string name="app_name" translatable="false">Everyone\'s Sponsorship</string>
+    <string name="login">Login</string>
 </resources>
